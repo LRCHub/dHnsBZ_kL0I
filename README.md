@@ -1,0 +1,44 @@
+# Mario Biondi – Lowdown（feat. チャカ・カーン、インコグニート）
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:27.02] Baby's into running around
+[00:28.83] Hanging with the crowd
+[00:31.18] Putting your business in the street talking out loud
+[00:35.03] Saying you bought her this and that
+[00:36.81] And how much you done spent
+[00:38.72] I swear she must believe it's all heaven sent
+[00:43.03] Hey boy you better bring the chick around
+[00:47.28] To the sad truth the dirty lowdown
+[01:04.28] 
+[00:56.47] (Who I wonder who) taught her how to talk like that
+[01:03.05] (Who I wonder who) gave her that big idea
+[01:23.55] 
+[01:15.39] Nothing you can't handle nothing you ain't got
+[01:19.74] Put the money on the table and drive it off the lot
+[01:23.47] Turn on that ole lovelight and turn a maybe to a yes
+[01:27.56] Same old schoolboy game got you into this mess
+[01:31.65] Hey son better get back to town
+[01:35.53] Face the sad old truth the dirty lowdown
+[01:55.53] 
+[01:45.05] (Who I wonder who) put those ideas in your head
+[01:53.14] (Who I wonder who) yeah
+[02:11.80] Come on back down little son
+[02:13.56] Dig the low low low low lowdown
+[02:29.06] 
+[02:23.87] You ain't got to be so bad got to be so cold
+[02:40.51] This dog eat dog existence sure is getting old
+[02:44.48] Got to have a Jones for this Jones for that
+[02:48.25] This running with the Joneses boy
+[02:50.41] Just ain't where it's at
+[02:53.53] You gonna come back around
+[02:56.91] To the sad sad truth the dirty lowdown
+[03:15.91] 
+[03:04.57] (Who I wonder who) got you thinking like that boy
+[03:06.09] (Who I wonder who)
+[03:12.69] (Who I wonder who said who I wonder who)
+[03:14.29] Oh look out for that lowdown
+[03:29.62] That dirty dirty dirty dirty lowdown
+[04:01.33] (Who I wonder who ohh ohh)
+```
