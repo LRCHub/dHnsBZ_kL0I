@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Lowdown（feat. チャカ・カーン、インコグニート）",
+  "base_artist": "Mario Biondi",
+  "createdAt": "2026-02-08T05:05:01.354512Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lowdown (feat. Incognito)",
+      "artist": "Mario Biondi",
+      "has_synced": true,
+      "path": "select/01_Lowdown_(feat._Incognito)_Mario_Biondi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lowdown (Feat Mario Biondi and Chaka Khan)",
+      "artist": "Incognito",
+      "has_synced": true,
+      "path": "select/02_Lowdown_(Feat_Mario_Biondi_and_Chaka_Khan)_Incognito.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lowdown (feat. Mario Biondi & Chaka Khan)",
+      "artist": "Incognito",
+      "has_synced": true,
+      "path": "select/03_Lowdown_(feat._Mario_Biondi_&_Chaka_Khan)_Incognito.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lowdown (feat. Darrein Safron & Ubiquitous)",
+      "artist": "Tech N9ne",
+      "has_synced": false,
+      "path": "select/04_Lowdown_(feat._Darrein_Safron_&_Ubiquitous)_Tech_N9ne.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lowdown (feat. Mario Biondi and Chaka Khan)",
+      "artist": "Incognito",
+      "has_synced": true,
+      "path": "select/05_Lowdown_(feat._Mario_Biondi_and_Chaka_Khan)_Incognito.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lowdown (feat. Darrein Safron, Tech N9ne, and Ubiquitous)",
+      "artist": "Tech N9ne",
+      "has_synced": false,
+      "path": "select/06_Lowdown_(feat._Darrein_Safron,_Tech_N9ne,_and_Ubiquitous)_Tech_N9ne.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lowdown (feat. Mario Biondi & Chaka Khan)",
+      "artist": "Incognito feat. Mario Biondi & Chaka Khan",
+      "has_synced": true,
+      "path": "select/07_Lowdown_(feat._Mario_Biondi_&_Chaka_Khan)_Incognito_feat._Mario_Biondi_&_Chaka_Khan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lowdown (Feat. Darren Safron & Ubiquitous)",
+      "artist": "Tech N9ne",
+      "has_synced": false,
+      "path": "select/08_Lowdown_(Feat._Darren_Safron_&_Ubiquitous)_Tech_N9ne.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lowdown (feat. Chaka Khan & Mario Biondi)",
+      "artist": "Incognito",
+      "has_synced": true,
+      "path": "select/09_Lowdown_(feat._Chaka_Khan_&_Mario_Biondi)_Incognito.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lowdown (feat. Tech N9ne & Ubiquitous)",
+      "artist": "Tech N9ne",
+      "has_synced": false,
+      "path": "select/10_Lowdown_(feat._Tech_N9ne_&_Ubiquitous)_Tech_N9ne.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lowdown (feat. Chaka Khan/Mario Biondi)",
+      "artist": "Incognito",
+      "has_synced": true,
+      "path": "select/11_Lowdown_(feat._Chaka_Khan_Mario_Biondi)_Incognito.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lowdown (feat. Tech N9ne & Ubiquitous)",
+      "artist": "Darren Safron",
+      "has_synced": false,
+      "path": "select/12_Lowdown_(feat._Tech_N9ne_&_Ubiquitous)_Darren_Safron.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lowdown feat. Mario Biondi & Chaka Khan / Incognito",
+      "artist": "Mario Biondi",
+      "has_synced": false,
+      "path": "select/pl_01_Lowdown_feat._Mario_Biondi_&_Chaka_Khan___Incognito_Mario_Biondi.txt"
+    }
+  ]
+}
